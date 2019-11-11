@@ -5,3 +5,5 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+.id_rsa_github_private
+.id_rsa_github_private.pub
