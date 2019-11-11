@@ -7,3 +7,4 @@ db.sqlite3
 .DS_Store
 id_rsa_github_private
 id_rsa_github_private.pub
+.env
